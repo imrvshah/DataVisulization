@@ -45,13 +45,19 @@ d3.json("nodes.json", function(error, graph) {
       .enter().append("line")
       .attr("class", "link")
       .style("stroke-width", function(d) { return Math.sqrt(d.value); })
-      .append("svg:title")
-      .text(function(d) { return (d.Score1 + " -> " + d.Score2); })
-    //   .on("mouseover", function(d, i) {
-    //     .append("text")
-    //     .text(d.Score1 + " -> " + d.Score2)
-    //     console.log(d.Score1 + " -> " + d.Score2);
-    //     //.attr("dy", -r * 2)
+      // .append("svg:title")
+      // .text(function(d) { return (d.Score1 + " -> " + d.Score2); })
+      .on("mouseover", function(d, i) {
+        var tooltip = d3.select("body")
+        .append("div")
+        .style("position", "absolute")
+        .style("z-index", "10")
+        .style("visibility", "hidden")
+      // .text("a simple tooltip");
+        // .append("text")
+        .text(d.Score1 + " -> " + d.Score2)
+        console.log(d.Score1 + " -> " + d.Score2);
+        //.attr("dy", -r * 2)
         
     // })
     .on("mouseout", function(d, i) {
