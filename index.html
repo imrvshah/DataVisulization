@@ -41,7 +41,7 @@ graph.links.forEach(function(link) {
         (nodes[link.source] = {name: link.source});
     link.target = nodes[link.target] || 
         (nodes[link.target] = {name: link.target});
-    link.value = +link.value;
+    link.value = 1;
 });
   force
       .nodes(d3.values(nodes))
