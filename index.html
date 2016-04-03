@@ -33,7 +33,16 @@ var svg = d3.select("body").append("svg")
 
 d3.json("nodes.json", function(error, graph) {
   if (error) throw error;
-
+var nodes = {};
+var links = {};
+// Compute the distinct nodes from the links.
+links.forEach(function(link) {
+    link.source = nodes[graph.links.source] || 
+        (nodes[graph.links.source] = {graph.links.source});
+    link.target = nodes[graph.links.target] || 
+        (graph.links.target] = {graph.links.target});
+    link.value = +link.value;
+});
 
   force
       .nodes(graph.nodes)
