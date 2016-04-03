@@ -166,6 +166,7 @@
 		"Score1": 21,
 		"Score2": 28,
 		"target": 0,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -173,6 +174,7 @@
 		"Score1": 31,
 		"Score2": 23,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -180,6 +182,7 @@
 		"Score1": 27,
 		"Score2": 20,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 7,
@@ -187,6 +190,7 @@
 		"Score1": 10,
 		"Score2": 31,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -194,6 +198,7 @@
 		"Score1": 14,
 		"Score2": 27,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 3,
@@ -201,6 +206,7 @@
 		"Score1": 17,
 		"Score2": 10,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -208,6 +214,7 @@
 		"Score1": 20,
 		"Score2": 9,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -215,6 +222,7 @@
 		"Score1": 31,
 		"Score2": 34,
 		"target": 30,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -222,6 +230,7 @@
 		"Score1": 19,
 		"Score2": 31,
 		"target": 28,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 22,
@@ -229,6 +238,7 @@
 		"Score1": 28,
 		"Score2": 33,
 		"target": 15,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -236,6 +246,7 @@
 		"Score1": 42,
 		"Score2": 14,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -243,6 +254,7 @@
 		"Score1": 33,
 		"Score2": 13,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 6,
@@ -250,6 +262,7 @@
 		"Score1": 13,
 		"Score2": 19,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -257,6 +270,7 @@
 		"Score1": 26,
 		"Score2": 27,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 17,
@@ -264,6 +278,7 @@
 		"Score1": 24,
 		"Score2": 26,
 		"target": "25",
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -271,6 +286,7 @@
 		"Score1": 3,
 		"Score2": 20,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -278,6 +294,7 @@
 		"Score1": 31,
 		"Score2": 24,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 8,
@@ -285,6 +302,7 @@
 		"Score1": 17,
 		"Score2": 24,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -292,6 +310,7 @@
 		"Score1": 18,
 		"Score2": 43,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -299,6 +318,7 @@
 		"Score1": 26,
 		"Score2": 19,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 22,
@@ -306,6 +326,7 @@
 		"Score1": 16,
 		"Score2": 26,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 28,
@@ -313,6 +334,7 @@
 		"Score1": 48,
 		"Score2": 23,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -320,6 +342,7 @@
 		"Score1": 40,
 		"Score2": 32,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -327,6 +350,7 @@
 		"Score1": 19,
 		"Score2": 24,
 		"target": 4,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -334,6 +358,7 @@
 		"Score1": 14,
 		"Score2": 28,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -341,6 +366,7 @@
 		"Score1": 24,
 		"Score2": 20,
 		"target": 18,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -348,6 +374,7 @@
 		"Score1": 10,
 		"Score2": 24,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 3,
@@ -355,6 +382,7 @@
 		"Score1": 20,
 		"Score2": 23,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 6,
@@ -362,6 +390,7 @@
 		"Score1": 33,
 		"Score2": 37,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 19,
@@ -369,6 +398,7 @@
 		"Score1": 20,
 		"Score2": 10,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -376,6 +406,7 @@
 		"Score1": 17,
 		"Score2": 27,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -383,6 +414,7 @@
 		"Score1": 20,
 		"Score2": 7,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -390,6 +422,7 @@
 		"Score1": 21,
 		"Score2": 32,
 		"target": 18,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -397,6 +430,7 @@
 		"Score1": 39,
 		"Score2": 28,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -404,6 +438,7 @@
 		"Score1": 35,
 		"Score2": 33,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 14,
@@ -411,6 +446,7 @@
 		"Score1": 27,
 		"Score2": 20,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -418,6 +454,7 @@
 		"Score1": 28,
 		"Score2": 24,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -425,6 +462,7 @@
 		"Score1": 17,
 		"Score2": 51,
 		"target": 0,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -432,6 +470,7 @@
 		"Score1": 22,
 		"Score2": 27,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 17,
@@ -439,6 +478,7 @@
 		"Score1": 24,
 		"Score2": 17,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -446,6 +486,7 @@
 		"Score1": 9,
 		"Score2": 19,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -453,6 +494,7 @@
 		"Score1": 14,
 		"Score2": 31,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 5,
@@ -460,6 +502,7 @@
 		"Score1": 12,
 		"Score2": 6,
 		"target": 30,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -467,6 +510,7 @@
 		"Score1": 7,
 		"Score2": 47,
 		"target": 28,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -474,6 +518,7 @@
 		"Score1": 41,
 		"Score2": 14,
 		"target": 3,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -481,6 +526,7 @@
 		"Score1": 0,
 		"Score2": 26,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -488,6 +534,7 @@
 		"Score1": 24,
 		"Score2": 12,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -495,6 +542,7 @@
 		"Score1": 28,
 		"Score2": 38,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 6,
@@ -502,6 +550,7 @@
 		"Score1": 23,
 		"Score2": 20,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -509,6 +558,7 @@
 		"Score1": 27,
 		"Score2": 14,
 		"target": 3,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -516,6 +566,7 @@
 		"Score1": 13,
 		"Score2": 16,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -523,6 +574,7 @@
 		"Score1": 24,
 		"Score2": 10,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -530,6 +582,7 @@
 		"Score1": 37,
 		"Score2": 23,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 17,
@@ -537,6 +590,7 @@
 		"Score1": 20,
 		"Score2": 23,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 14,
@@ -544,6 +598,7 @@
 		"Score1": 20,
 		"Score2": 22,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 8,
@@ -551,6 +606,7 @@
 		"Score1": 21,
 		"Score2": 48,
 		"target": 25,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -558,6 +614,7 @@
 		"Score1": 21,
 		"Score2": 36,
 		"target": 4,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 7,
@@ -565,6 +622,7 @@
 		"Score1": 27,
 		"Score2": 30,
 		"target": 15,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -572,6 +630,7 @@
 		"Score1": 17,
 		"Score2": 3,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -579,6 +638,7 @@
 		"Score1": 24,
 		"Score2": 22,
 		"target": 28,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -586,6 +646,7 @@
 		"Score1": 20,
 		"Score2": 23,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 19,
@@ -593,6 +654,7 @@
 		"Score1": 20,
 		"Score2": 26,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 22,
@@ -600,6 +662,7 @@
 		"Score1": 10,
 		"Score2": 13,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -607,6 +670,7 @@
 		"Score1": 27,
 		"Score2": 20,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -614,6 +678,7 @@
 		"Score1": 18,
 		"Score2": 17,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -621,6 +686,7 @@
 		"Score1": 24,
 		"Score2": 27,
 		"target": 4,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -628,6 +694,7 @@
 		"Score1": 19,
 		"Score2": 25,
 		"target": 25,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -635,6 +702,7 @@
 		"Score1": 31,
 		"Score2": 38,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -642,6 +710,7 @@
 		"Score1": 17,
 		"Score2": 39,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 7,
@@ -649,6 +718,7 @@
 		"Score1": 33,
 		"Score2": 30,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -656,6 +726,7 @@
 		"Score1": 10,
 		"Score2": 24,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -663,6 +734,7 @@
 		"Score1": 14,
 		"Score2": 13,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 28,
@@ -670,6 +742,7 @@
 		"Score1": 42,
 		"Score2": 17,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -677,6 +750,7 @@
 		"Score1": 30,
 		"Score2": 6,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -684,6 +758,7 @@
 		"Score1": 16,
 		"Score2": 10,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -691,6 +766,7 @@
 		"Score1": 27,
 		"Score2": 30,
 		"target": 18,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 5,
@@ -698,6 +774,7 @@
 		"Score1": 24,
 		"Score2": 20,
 		"target": 15,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -705,6 +782,7 @@
 		"Score1": 21,
 		"Score2": 31,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -712,6 +790,7 @@
 		"Score1": 20,
 		"Score2": 34,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": "28 ",
@@ -719,6 +798,7 @@
 		"Score1": 13,
 		"Score2": 25,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -726,6 +806,7 @@
 		"Score1": 10,
 		"Score2": 16,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -733,6 +814,7 @@
 		"Score1": 34,
 		"Score2": 21,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -740,6 +822,7 @@
 		"Score1": 34,
 		"Score2": 37,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -747,6 +830,7 @@
 		"Score1": 26,
 		"Score2": 23,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 8,
@@ -754,6 +838,7 @@
 		"Score1": 31,
 		"Score2": 20,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 3,
@@ -761,6 +846,7 @@
 		"Score1": 38,
 		"Score2": 10,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -768,6 +854,7 @@
 		"Score1": 27,
 		"Score2": 23,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -775,6 +862,7 @@
 		"Score1": 20,
 		"Score2": 27,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 6,
@@ -782,6 +870,7 @@
 		"Score1": 20,
 		"Score2": 25,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -789,6 +878,7 @@
 		"Score1": 34,
 		"Score2": 27,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -796,6 +886,7 @@
 		"Score1": 7,
 		"Score2": 27,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -803,6 +894,7 @@
 		"Score1": 20,
 		"Score2": 3,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -810,6 +902,7 @@
 		"Score1": 31,
 		"Score2": 34,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -817,6 +910,7 @@
 		"Score1": 30,
 		"Score2": 31,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -824,6 +918,7 @@
 		"Score1": 10,
 		"Score2": 7,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -831,6 +926,7 @@
 		"Score1": 27,
 		"Score2": 21,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -838,6 +934,7 @@
 		"Score1": 28,
 		"Score2": 19,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 5,
@@ -845,6 +942,7 @@
 		"Score1": 13,
 		"Score2": 23,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -852,6 +950,7 @@
 		"Score1": 26,
 		"Score2": 29,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -859,6 +958,7 @@
 		"Score1": 16,
 		"Score2": 10,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -866,6 +966,7 @@
 		"Score1": 6,
 		"Score2": 20,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -873,6 +974,7 @@
 		"Score1": 20,
 		"Score2": 34,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -880,6 +982,7 @@
 		"Score1": 13,
 		"Score2": 12,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": "21   ",
@@ -887,6 +990,7 @@
 		"Score1": 10,
 		"Score2": 29,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -894,6 +998,7 @@
 		"Score1": 26,
 		"Score2": 29,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 3,
@@ -901,6 +1006,7 @@
 		"Score1": 7,
 		"Score2": 36,
 		"target": 0,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 22,
@@ -908,6 +1014,7 @@
 		"Score1": 10,
 		"Score2": 45,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -915,6 +1022,7 @@
 		"Score1": 23,
 		"Score2": 20,
 		"target": 25,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 28,
@@ -922,6 +1030,7 @@
 		"Score1": 34,
 		"Score2": 20,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -929,6 +1038,7 @@
 		"Score1": 6,
 		"Score2": 27,
 		"target": 30,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -936,6 +1046,7 @@
 		"Score1": 49,
 		"Score2": 52,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -943,6 +1054,7 @@
 		"Score1": 23,
 		"Score2": 20,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -950,6 +1062,7 @@
 		"Score1": 26,
 		"Score2": 29,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -957,6 +1070,7 @@
 		"Score1": 16,
 		"Score2": 10,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -964,6 +1078,7 @@
 		"Score1": 6,
 		"Score2": 20,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -971,6 +1086,7 @@
 		"Score1": 20,
 		"Score2": 34,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -978,6 +1094,7 @@
 		"Score1": 13,
 		"Score2": 12,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -985,6 +1102,7 @@
 		"Score1": 10,
 		"Score2": 29,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -992,6 +1110,7 @@
 		"Score1": 26,
 		"Score2": 29,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 7,
@@ -999,6 +1118,7 @@
 		"Score1": 10,
 		"Score2": 31,
 		"target": 4,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -1006,6 +1126,7 @@
 		"Score1": 29,
 		"Score2": 37,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -1013,6 +1134,7 @@
 		"Score1": 10,
 		"Score2": 27,
 		"target": 0,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -1020,6 +1142,7 @@
 		"Score1": 34,
 		"Score2": 28,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 3,
@@ -1027,6 +1150,7 @@
 		"Score1": 17,
 		"Score2": 33,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -1034,6 +1158,7 @@
 		"Score1": 18,
 		"Score2": 21,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -1041,6 +1166,7 @@
 		"Score1": 23,
 		"Score2": 28,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 14,
@@ -1048,6 +1174,7 @@
 		"Score1": 35,
 		"Score2": 38,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -1055,6 +1182,7 @@
 		"Score1": 32,
 		"Score2": 18,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -1062,6 +1190,7 @@
 		"Score1": 16,
 		"Score2": 17,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -1069,6 +1198,7 @@
 		"Score1": 24,
 		"Score2": 27,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 17,
@@ -1076,6 +1206,7 @@
 		"Score1": 33,
 		"Score2": 27,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -1083,6 +1214,7 @@
 		"Score1": 22,
 		"Score2": 19,
 		"target": 15,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -1090,6 +1222,7 @@
 		"Score1": 22,
 		"Score2": 17,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": "22   ",
@@ -1097,6 +1230,7 @@
 		"Score1": 18,
 		"Score2": 16,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 19,
@@ -1104,6 +1238,7 @@
 		"Score1": 6,
 		"Score2": 10,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -1111,6 +1246,7 @@
 		"Score1": 27,
 		"Score2": 10,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -1118,6 +1254,7 @@
 		"Score1": 37,
 		"Score2": 13,
 		"target": 30,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -1125,6 +1262,7 @@
 		"Score1": 14,
 		"Score2": 47,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": "3   ",
@@ -1132,6 +1270,7 @@
 		"Score1": 20,
 		"Score2": 19,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 7,
@@ -1139,6 +1278,7 @@
 		"Score1": 9,
 		"Score2": 30,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -1146,6 +1286,7 @@
 		"Score1": 22,
 		"Score2": 20,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -1153,6 +1294,7 @@
 		"Score1": 30,
 		"Score2": 14,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -1160,6 +1302,7 @@
 		"Score1": 27,
 		"Score2": 26,
 		"target": 18,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -1167,6 +1310,7 @@
 		"Score1": 29,
 		"Score2": 13,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 28,
@@ -1174,6 +1318,7 @@
 		"Score1": 39,
 		"Score2": 32,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 8,
@@ -1181,6 +1326,7 @@
 		"Score1": 10,
 		"Score2": 6,
 		"target": 4,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -1188,6 +1334,7 @@
 		"Score1": 13,
 		"Score2": 19,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 14,
@@ -1195,6 +1342,7 @@
 		"Score1": 13,
 		"Score2": 18,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -1202,6 +1350,7 @@
 		"Score1": 24,
 		"Score2": 21,
 		"target": 25,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -1209,6 +1358,7 @@
 		"Score1": 13,
 		"Score2": 16,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -1216,6 +1366,7 @@
 		"Score1": 45,
 		"Score2": 17,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -1223,6 +1374,7 @@
 		"Score1": 17,
 		"Score2": 15,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -1230,6 +1382,7 @@
 		"Score1": 17,
 		"Score2": 24,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -1237,6 +1390,7 @@
 		"Score1": 16,
 		"Score2": 44,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 19,
@@ -1244,6 +1398,7 @@
 		"Score1": 24,
 		"Score2": 14,
 		"target": 3,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -1251,6 +1406,7 @@
 		"Score1": 33,
 		"Score2": 3,
 		"target": 15,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -1258,6 +1414,7 @@
 		"Score1": 30,
 		"Score2": 13,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -1265,6 +1422,7 @@
 		"Score1": 13,
 		"Score2": 29,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -1272,6 +1430,7 @@
 		"Score1": 31,
 		"Score2": 34,
 		"target": 28,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -1279,6 +1438,7 @@
 		"Score1": 13,
 		"Score2": 20,
 		"target": 0,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 17,
@@ -1286,6 +1446,7 @@
 		"Score1": 14,
 		"Score2": 45,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -1293,6 +1454,7 @@
 		"Score1": 33,
 		"Score2": 14,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -1300,6 +1462,7 @@
 		"Score1": 17,
 		"Score2": 13,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -1307,6 +1470,7 @@
 		"Score1": 6,
 		"Score2": 24,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -1314,6 +1478,7 @@
 		"Score1": 7,
 		"Score2": 31,
 		"target": 4,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -1321,6 +1486,7 @@
 		"Score1": 20,
 		"Score2": 10,
 		"target": 25,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -1328,6 +1494,7 @@
 		"Score1": 14,
 		"Score2": 20,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -1335,6 +1502,7 @@
 		"Score1": 12,
 		"Score2": 25,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -1342,6 +1510,7 @@
 		"Score1": 22,
 		"Score2": 30,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 14,
@@ -1349,6 +1518,7 @@
 		"Score1": 24,
 		"Score2": 21,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -1356,6 +1526,7 @@
 		"Score1": 31,
 		"Score2": 25,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 3,
@@ -1363,6 +1534,7 @@
 		"Score1": 20,
 		"Score2": 38,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 28,
@@ -1370,6 +1542,7 @@
 		"Score1": 19,
 		"Score2": 13,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 5,
@@ -1377,6 +1550,7 @@
 		"Score1": 30,
 		"Score2": 39,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -1384,6 +1558,7 @@
 		"Score1": 24,
 		"Score2": 30,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 6,
@@ -1391,6 +1566,7 @@
 		"Score1": 33,
 		"Score2": 27,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -1398,6 +1574,7 @@
 		"Score1": 27,
 		"Score2": 23,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -1405,6 +1582,7 @@
 		"Score1": 23,
 		"Score2": 20,
 		"target": 18,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 28,
@@ -1412,6 +1590,7 @@
 		"Score1": 27,
 		"Score2": 3,
 		"target": 30,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -1419,6 +1598,7 @@
 		"Score1": 19,
 		"Score2": 23,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -1426,6 +1606,7 @@
 		"Score1": 38,
 		"Score2": 7,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -1433,6 +1614,7 @@
 		"Score1": 26,
 		"Score2": 20,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -1440,6 +1622,7 @@
 		"Score1": 39,
 		"Score2": 42,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 8,
@@ -1447,6 +1630,7 @@
 		"Score1": 21,
 		"Score2": 30,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 6,
@@ -1454,6 +1638,7 @@
 		"Score1": 13,
 		"Score2": 15,
 		"target": 3,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -1461,6 +1646,7 @@
 		"Score1": 37,
 		"Score2": 3,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -1468,6 +1654,7 @@
 		"Score1": 34,
 		"Score2": 20,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -1475,6 +1662,7 @@
 		"Score1": 17,
 		"Score2": 3,
 		"target": 15,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 17,
@@ -1482,6 +1670,7 @@
 		"Score1": 35,
 		"Score2": 28,
 		"target": 0,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -1489,6 +1678,7 @@
 		"Score1": 41,
 		"Score2": 38,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -1496,6 +1686,7 @@
 		"Score1": 10,
 		"Score2": 45,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 19,
@@ -1503,6 +1694,7 @@
 		"Score1": 19,
 		"Score2": 16,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -1510,6 +1702,7 @@
 		"Score1": 20,
 		"Score2": 23,
 		"target": 28,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -1517,6 +1710,7 @@
 		"Score1": 20,
 		"Score2": 23,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -1524,6 +1718,7 @@
 		"Score1": 35,
 		"Score2": 6,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -1531,6 +1726,7 @@
 		"Score1": 10,
 		"Score2": 24,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 22,
@@ -1538,6 +1734,7 @@
 		"Score1": 14,
 		"Score2": 21,
 		"target": 30,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -1545,6 +1742,7 @@
 		"Score1": 8,
 		"Score2": 30,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 5,
@@ -1559,6 +1757,7 @@
 		"Score1": 16,
 		"Score2": 51,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -1566,6 +1765,7 @@
 		"Score1": 3,
 		"Score2": 10,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -1573,6 +1773,7 @@
 		"Score1": 24,
 		"Score2": 21,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -1580,6 +1781,7 @@
 		"Score1": 0,
 		"Score2": 38,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -1587,6 +1789,7 @@
 		"Score1": 24,
 		"Score2": 17,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 14,
@@ -1594,6 +1797,7 @@
 		"Score1": 15,
 		"Score2": 12,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 19,
@@ -1601,6 +1805,7 @@
 		"Score1": 7,
 		"Score2": 28,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -1608,6 +1813,7 @@
 		"Score1": 27,
 		"Score2": 6,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -1615,6 +1821,7 @@
 		"Score1": 31,
 		"Score2": 24,
 		"target": 3,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -1622,6 +1829,7 @@
 		"Score1": 23,
 		"Score2": 31,
 		"target": 30,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -1629,6 +1837,7 @@
 		"Score1": 19,
 		"Score2": 16,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -1636,6 +1845,7 @@
 		"Score1": 38,
 		"Score2": 35,
 		"target": 18,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -1643,6 +1853,7 @@
 		"Score1": 16,
 		"Score2": 33,
 		"target": 0,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 2,
@@ -1650,6 +1861,7 @@
 		"Score1": 25,
 		"Score2": 35,
 		"target": 16,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 13,
@@ -1657,6 +1869,7 @@
 		"Score1": 34,
 		"Score2": 14,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 8,
@@ -1664,6 +1877,7 @@
 		"Score1": 16,
 		"Score2": 10,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 25,
@@ -1671,6 +1885,7 @@
 		"Score1": 23,
 		"Score2": 17,
 		"target": 10,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -1678,6 +1893,7 @@
 		"Score1": 17,
 		"Score2": 38,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -1685,6 +1901,7 @@
 		"Score1": 30,
 		"Score2": 20,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 7,
@@ -1692,6 +1909,7 @@
 		"Score1": 13,
 		"Score2": 30,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -1699,6 +1917,7 @@
 		"Score1": 24,
 		"Score2": 14,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 3,
@@ -1706,6 +1925,7 @@
 		"Score1": 14,
 		"Score2": 30,
 		"target": 15,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 12,
@@ -1713,6 +1933,7 @@
 		"Score1": 27,
 		"Score2": 34,
 		"target": 5,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 28,
@@ -1720,6 +1941,7 @@
 		"Score1": 40,
 		"Score2": 17,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 22,
@@ -1727,6 +1949,7 @@
 		"Score1": 35,
 		"Score2": 27,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": "15   ",
@@ -1734,6 +1957,7 @@
 		"Score1": 20,
 		"Score2": 23,
 		"target": 14,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -1741,6 +1965,7 @@
 		"Score1": 38,
 		"Score2": 24,
 		"target": 17,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 31,
@@ -1748,6 +1973,7 @@
 		"Score1": 17,
 		"Score2": 32,
 		"target": 22,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 5,
@@ -1755,6 +1981,7 @@
 		"Score1": 17,
 		"Score2": 20,
 		"target": 6,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 19,
@@ -1762,6 +1989,7 @@
 		"Score1": 6,
 		"Score2": 16,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 23,
@@ -1769,6 +1997,7 @@
 		"Score1": 26,
 		"Score2": 21,
 		"target": 27,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 24,
@@ -1776,6 +2005,7 @@
 		"Score1": 13,
 		"Score2": 20,
 		"target": "25",
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 9,
@@ -1783,6 +2013,7 @@
 		"Score1": 18,
 		"Score2": 12,
 		"target": 3,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -1790,6 +2021,7 @@
 		"Score1": 20,
 		"Score2": 26,
 		"target": 1,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 8,
@@ -1797,6 +2029,7 @@
 		"Score1": 34,
 		"Score2": 6,
 		"target": 11,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 7,
@@ -1804,6 +2037,7 @@
 		"Score1": 13,
 		"Score2": 17,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -1811,6 +2045,7 @@
 		"Score1": 27,
 		"Score2": 38,
 		"target": 26,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 21,
@@ -1818,6 +2053,7 @@
 		"Score1": 8,
 		"Score2": 38,
 		"target": 28,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -1825,6 +2061,7 @@
 		"Score1": 23,
 		"Score2": 17,
 		"target": 29,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 18,
@@ -1832,6 +2069,7 @@
 		"Score1": 17,
 		"Score2": 49,
 		"target": 20,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 4,
@@ -1839,6 +2077,7 @@
 		"Score1": 17,
 		"Score2": 20,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 1,
@@ -1846,6 +2085,7 @@
 		"Score1": 17,
 		"Score2": 22,
 		"target": 2,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 0,
@@ -1853,6 +2093,7 @@
 		"Score1": 10,
 		"Score2": 20,
 		"target": 3,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 26,
@@ -1860,6 +2101,7 @@
 		"Score1": 20,
 		"Score2": 17,
 		"target": "25",
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 22,
@@ -1867,6 +2109,7 @@
 		"Score1": 24,
 		"Score2": 20,
 		"target": 23,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 17,
@@ -1874,6 +2117,7 @@
 		"Score1": 35,
 		"Score2": 30,
 		"target": 18,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 16,
@@ -1881,6 +2125,7 @@
 		"Score1": 34,
 		"Score2": 23,
 		"target": 19,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 11,
@@ -1888,6 +2133,7 @@
 		"Score1": 24,
 		"Score2": 30,
 		"target": 9,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 6,
@@ -1895,6 +2141,7 @@
 		"Score1": 16,
 		"Score2": 24,
 		"target": 4,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": "5   ",
@@ -1902,6 +2149,7 @@
 		"Score1": 28,
 		"Score2": 12,
 		"target": 7,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 10,
@@ -1909,6 +2157,7 @@
 		"Score1": 6,
 		"Score2": 30,
 		"target": 8,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 14,
@@ -1916,6 +2165,7 @@
 		"Score1": 17,
 		"Score2": 23,
 		"target": 13,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 15,
@@ -1923,6 +2173,7 @@
 		"Score1": 20,
 		"Score2": 27,
 		"target": 12,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 27,
@@ -1930,6 +2181,7 @@
 		"Score1": 10,
 		"Score2": 38,
 		"target": 24,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 29,
@@ -1937,6 +2189,7 @@
 		"Score1": 36,
 		"Score2": 6,
 		"target": 28,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 30,
@@ -1944,6 +2197,7 @@
 		"Score1": 16,
 		"Score2": 19,
 		"target": 31,
+		"value": 1,
 		"TeamID2": ""
 	}, {
 		"source": 20,
@@ -1951,6 +2205,7 @@
 		"Score1": 20,
 		"Score2": 13,
 		"target": 21,
+		"value": 1,
 		"TeamID2": ""
 	}]
 }
