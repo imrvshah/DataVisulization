@@ -34,6 +34,7 @@
 </style>
 <body>
 <script src="//d3js.org/d3.v3.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>
 
 var width = 960,
@@ -50,12 +51,17 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("miserables.json", function(error, graph) {
+d3.json("nodes.json", function(error, graph) {
   if (error) throw error;
-
+  
+  // I use jQuery.map() to reformat the data as I want
+  var my_nodes = $.map(d3.range(1000), function(d){return {"name": d};});
+  var my_links = $.map(graph, function(d){return {"source": d.source, "target": d.target, "weight":1, "origin": d};});
+  
+ 
   force
-      .nodes(graph.nodes)
-      .links(graph.links)
+      //.nodes(graph.nodes)
+      //.links(my_links)
       .start();
 
   var link = svg.selectAll(".link")
@@ -88,4 +94,3 @@ d3.json("miserables.json", function(error, graph) {
 
 </script>
 
-</script>
