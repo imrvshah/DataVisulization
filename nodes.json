@@ -985,7 +985,7 @@
 		"value": 1,
 		"TeamID2": ""
 	}, {
-		"source": "21   ",
+		"source": 21,
 		"TeamID 1": "",
 		"Score1": 10,
 		"Score2": 29,
@@ -1225,7 +1225,7 @@
 		"value": 1,
 		"TeamID2": ""
 	}, {
-		"source": "22   ",
+		"source": 22,
 		"TeamID 1": "",
 		"Score1": 18,
 		"Score2": 16,
@@ -1265,7 +1265,7 @@
 		"value": 1,
 		"TeamID2": ""
 	}, {
-		"source": "3   ",
+		"source": 3,
 		"TeamID 1": "",
 		"Score1": 20,
 		"Score2": 19,
@@ -1952,7 +1952,7 @@
 		"value": 1,
 		"TeamID2": ""
 	}, {
-		"source": "15   ",
+		"source": 15,
 		"TeamID 1": "",
 		"Score1": 20,
 		"Score2": 23,
@@ -2144,7 +2144,7 @@
 		"value": 1,
 		"TeamID2": ""
 	}, {
-		"source": "5   ",
+		"source": 5,
 		"TeamID 1": "",
 		"Score1": 28,
 		"Score2": 12,
