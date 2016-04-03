@@ -1,2245 +1,2245 @@
 {
-  "nodes":[
+  “nodes”:[
   {
-    "Nodes":"Patriots    ",
+    "name":"Patriots    ",
     "Win":12,
     "Loss":4,
     "group":1
   },
   {
-    "Nodes":"Jets",
+    "name":"Jets",
     "Win":10,
     "Loss":6,
     "group":1
   },
   {
-    "Nodes":"Bills",
+    "name":"Bills",
     "Win":8,
     "Loss":8,
     "group":1
   },
   {
-    "Nodes":"Dolphins",
+    "name":"Dolphins",
     "Win":6,
     "Loss":10,
     "group":1
   },
   {
-    "Nodes":"Bengals",
+    "name":"Bengals",
     "Win":12,
     "Loss":4,
     "group":2
   },
   {
-    "Nodes":"Steelers",
+    "name":"Steelers",
     "Win":10,
     "Loss":6,
     "group":2
   },
   {
-    "Nodes":"Ravens",
+    "name":"Ravens",
     "Win":5,
     "Loss":11,
     "group":2
   },
   {
-    "Nodes":"Browns",
+    "name":"Browns",
     "Win":3,
     "Loss":13,
     "group":2
   },
   {
-    "Nodes":"Texans",
+    "name":"Texans",
     "Win":9,
     "Loss":7,
     "group":3
   },
   {
-    "Nodes":"collts",
+    "name”:”Collts",
     "Win":8,
     "Loss":8,
     "group":3
   },
   {
-    "Nodes":"Jaguars",
+    "name":"Jaguars",
     "Win":5,
     "Loss":11,
     "group":3
   },
   {
-    "Nodes":"Titans",
+    "name":"Titans",
     "Win":3,
     "Loss":13,
     "group":3
   },
   {
-    "Nodes":"Broncos",
+    "name":"Broncos",
     "Win":12,
     "Loss":4,
     "group":4
   },
   {
-    "Nodes":"Chiefs",
+    "name":"Chiefs",
     "Win":11,
     "Loss":5,
     "group":4
   },
   {
-    "Nodes":"Raiders",
+    "name":"Raiders",
     "Win":7,
     "Loss":9,
     "group":4
   },
   {
-    "Nodes":"Chargers",
+    "name":"Chargers",
     "Win":4,
     "Loss":12,
     "group":4
   },
   {
-    "Nodes":"Redskins",
+    "name":"Redskins",
     "Win":9,
     "Loss":7,
     "group":5
   },
   {
-    "Nodes":"Eagles",
+    "name":"Eagles",
     "Win":7,
     "Loss":9,
     "group":5
   },
   {
-    "Nodes":"Giants",
+    "name":"Giants",
     "Win":6,
     "Loss":10,
     "group":5
   },
   {
-    "Nodes":"Cowboys",
+    "name":"Cowboys",
     "Win":4,
     "Loss":12,
     "group":5
   },
   {
-    "Nodes":"Vikings",
+    "name":"Vikings",
     "Win":11,
     "Loss":5,
     "group":6
   },
   {
-    "Nodes":"Packers",
+    "name":"Packers",
     "Win":10,
     "Loss":6,
     "group":6
   },
   {
-    "Nodes":"Lions",
+    "name":"Lions",
     "Win":7,
     "Loss":9,
     "group":6
   },
   {
-    "Nodes":"Bears",
+    "name":"Bears",
     "Win":6,
     "Loss":10,
     "group":6
   },
   {
-    "Nodes":"Panthers",
+    "name":"Panthers",
     "Win":15,
     "Loss":1,
     "group":7
   },
   {
-    "Nodes":"Falcons",
+    "name":"Falcons",
     "Win":8,
     "Loss":8,
     "group":7
   },
   {
-    "Nodes":"Saints",
+    "name":"Saints",
     "Win":7,
     "Loss":9,
     "group":7
   },
   {
-    "Nodes":"Buccaneers",
+    "name":"Buccaneers",
     "Win":6,
     "Loss":10,
     "group":7
   },
   {
-    "Nodes":"Cardinals",
+    "name":"Cardinals",
     "Win":13,
     "Loss":3,
     "group":8
   },
   {
-    "Nodes":"Seahawks",
+    "name":"Seahawks",
     "Win":10,
     "Loss":6,
     "group":8
   },
   {
-    "Nodes":"Rams",
+    "name":"Rams",
     "Win":7,
     "Loss":9,
     "group":8
   },
   {
-    "Nodes":"49ers",
+    "name":"49ers",
     "Win":5,
     "Loss":11,
     "group":8
   }
 ],
-"links":[
+“links”:[
   {
-    "TeamName1":"Steelers  ",
+    "source":"Steelers  ",
     "TeamID 1":"",
     "Score1":21,
     "Score2":28,
-    "TeamName2":"Patriots",
+    "target":"Patriots",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers   ",
+    "source":"Packers   ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":23,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs   ",
+    "source":"Chiefs   ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":20,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Browns   ",
+    "source":"Browns   ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":31,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts ",
+    "source":"Colts ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":27,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins   ",
+    "source":"Dolphins   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":10,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers   ",
+    "source":"Panthers   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":9,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks   ",
+    "source":"Seahawks   ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":34,
-    "TeamName2":"Rams",
+    "target":"Rams",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints ",
+    "source":"Saints ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":31,
-    "TeamName2":"Cardinals",
+    "target":"Cardinals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions",
+    "source":"Lions",
     "TeamID 1":"",
     "Score1":28,
     "Score2":33,
-    "TeamName2":"Chargers",
+    "target":"Chargers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans",
+    "source":"Titans",
     "TeamID 1":"",
     "Score1":42,
     "Score2":14,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals",
+    "source":"Bengals",
     "TeamID 1":"",
     "Score1":33,
     "Score2":13,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Ravens",
+    "source":"Ravens",
     "TeamID 1":"",
     "Score1":13,
     "Score2":19,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants",
+    "source":"Giants",
     "TeamID 1":"",
     "Score1":26,
     "Score2":27,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Eagles",
+    "source":"Eagles",
     "TeamID 1":"",
     "Score1":24,
     "Score2":26,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings",
+    "source":"Vikings",
     "TeamID 1":"",
     "Score1":3,
     "Score2":20,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos",
+    "source":"Broncos",
     "TeamID 1":"",
     "Score1":31,
     "Score2":24,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Texans   ",
+    "source":"Texans   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":24,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers   ",
+    "source":"49ers   ",
     "TeamID 1":"",
     "Score1":18,
     "Score2":43,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers   ",
+    "source":"Buccaneers   ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":19,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions   ",
+    "source":"Lions   ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":26,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals",
+    "source":"Cardinals",
     "TeamID 1":"",
     "Score1":48,
     "Score2":23,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots   ",
+    "source":"Patriots   ",
     "TeamID 1":"",
     "Score1":40,
     "Score2":32,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers   ",
+    "source":"Chargers   ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":24,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans   ",
+    "source":"Titans   ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":28,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons   ",
+    "source":"Falcons   ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":20,
-    "TeamName2":"Giants",
+    "target":"Giants",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams",
+    "source":"Rams",
     "TeamID 1":"",
     "Score1":10,
     "Score2":24,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins",
+    "source":"Dolphins",
     "TeamID 1":"",
     "Score1":20,
     "Score2":23,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Ravens   ",
+    "source":"Ravens   ",
     "TeamID 1":"",
     "Score1":33,
     "Score2":37,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cowboys",
+    "source":"Cowboys",
     "TeamID 1":"",
     "Score1":20,
     "Score2":10,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks   ",
+    "source":"Seahawks   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":27,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets   ",
+    "source":"Jets   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":7,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins   ",
+    "source":"Redskins   ",
     "TeamID 1":"",
     "Score1":21,
     "Score2":32,
-    "TeamName2":"Giants",
+    "target":"Giants",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons   ",
+    "source":"Falcons   ",
     "TeamID 1":"",
     "Score1":39,
     "Score2":28,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts   ",
+    "source":"Colts   ",
     "TeamID 1":"",
     "Score1":35,
     "Score2":33,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Raiders   ",
+    "source":"Raiders   ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":20,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals   ",
+    "source":"Bengals   ",
     "TeamID 1":"",
     "Score1":28,
     "Score2":24,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars   ",
+    "source":"Jaguars   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":51,
-    "TeamName2":"Patriots",
+    "target":"Patriots",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints    ",
+    "source":"Saints    ",
     "TeamID 1":"",
     "Score1":22,
     "Score2":27,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Eagles   ",
+    "source":"Eagles   ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":17,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers   ",
+    "source":"Buccaneers   ",
     "TeamID 1":"",
     "Score1":9,
     "Score2":19,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers   ",
+    "source":"Chargers   ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":31,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"Steelers   ",
+    "source":"Steelers   ",
     "TeamID 1":"",
     "Score1":12,
     "Score2":6,
-    "TeamName2":"Rams",
+    "target":"Rams",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers   ",
+    "source":"49ers   ",
     "TeamID 1":"",
     "Score1":7,
     "Score2":47,
-    "TeamName2":"Cardinals",
+    "target":"Cardinals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills   ",
+    "source":"Bills   ",
     "TeamID 1":"",
     "Score1":41,
     "Score2":14,
-    "TeamName2":"Dolphins",
+    "target":"Dolphins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears   ",
+    "source":"Bears   ",
     "TeamID 1":"",
     "Score1":0,
     "Score2":26,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos   ",
+    "source":"Broncos   ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":12,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs   ",
+    "source":"Chiefs   ",
     "TeamID 1":"",
     "Score1":28,
     "Score2":38,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Ravens   ",
+    "source":"Ravens   ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":20,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets   ",
+    "source":"Jets   ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":14,
-    "TeamName2":"Dolphins",
+    "target":"Dolphins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars    ",
+    "source":"Jaguars    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":16,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants   ",
+    "source":"Giants   ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":10,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers",
+    "source":"Panthers",
     "TeamID 1":"",
     "Score1":37,
     "Score2":23,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Eagles   ",
+    "source":"Eagles   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":23,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Raiders   ",
+    "source":"Raiders   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":22,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Texans   ",
+    "source":"Texans   ",
     "TeamID 1":"",
     "Score1":21,
     "Score2":48,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs   ",
+    "source":"Chiefs   ",
     "TeamID 1":"",
     "Score1":21,
     "Score2":36,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Browns   ",
+    "source":"Browns   ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":30,
-    "TeamName2":"Chargers",
+    "target":"Chargers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers   ",
+    "source":"Packers   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":3,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams   ",
+    "source":"Rams   ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":22,
-    "TeamName2":"Cardinals",
+    "target":"Cardinals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings   ",
+    "source":"Vikings   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":23,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cowboys   ",
+    "source":"Cowboys   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":26,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions   ",
+    "source":"Lions   ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":13,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts   ",
+    "source":"Colts   ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":20,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears   ",
+    "source":"Bears   ",
     "TeamID 1":"",
     "Score1":18,
     "Score2":17,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks   ",
+    "source":"Seahawks   ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":27,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins   ",
+    "source":"Redskins   ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":25,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars   ",
+    "source":"Jaguars   ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":38,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints   ",
+    "source":"Saints   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":39,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"Browns    ",
+    "source":"Browns    ",
     "TeamID 1":"",
     "Score1":33,
     "Score2":30,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams",
+    "source":"Rams",
     "TeamID 1":"",
     "Score1":10,
     "Score2":24,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills   ",
+    "source":"Bills   ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":13,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals   ",
+    "source":"Cardinals   ",
     "TeamID 1":"",
     "Score1":42,
     "Score2":17,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots   ",
+    "source":"Patriots   ",
     "TeamID 1":"",
     "Score1":30,
     "Score2":6,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos    ",
+    "source":"Broncos    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":10,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers    ",
+    "source":"49ers    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":30,
-    "TeamName2":"Giants",
+    "target":"Giants",
     "TeamID2":""
   },
   {
-    "TeamName1":"Steelers    ",
+    "source":"Steelers    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":20,
-    "TeamName2":"Chargers",
+    "target":"Chargers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons    ",
+    "source":"Falcons    ",
     "TeamID 1":"",
     "Score1":21,
     "Score2":31,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins    ",
+    "source":"Redskins    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":34,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals ",
+    "source":"Cardinals ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":25,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs    ",
+    "source":"Chiefs    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":16,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals    ",
+    "source":"Bengals    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":21,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears    ",
+    "source":"Bears    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":37,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos    ",
+    "source":"Broncos    ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":23,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"Texans    ",
+    "source":"Texans    ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":20,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins    ",
+    "source":"Dolphins    ",
     "TeamID 1":"",
     "Score1":38,
     "Score2":10,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers    ",
+    "source":"Panthers    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":23,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers    ",
+    "source":"Chargers    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":27,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Ravens    ",
+    "source":"Ravens    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":25,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots    ",
+    "source":"Patriots    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":27,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants    ",
+    "source":"Giants    ",
     "TeamID 1":"",
     "Score1":7,
     "Score2":27,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks    ",
+    "source":"Seahawks    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":3,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills",
+    "source":"Bills",
     "TeamID 1":"",
     "Score1":31,
     "Score2":34,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers    ",
+    "source":"Buccaneers    ",
     "TeamID 1":"",
     "Score1":30,
     "Score2":31,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons ",
+    "source":"Falcons ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":7,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints    ",
+    "source":"Saints    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":21,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings    ",
+    "source":"Vikings    ",
     "TeamID 1":"",
     "Score1":28,
     "Score2":19,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Steelers    ",
+    "source":"Steelers    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":23,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers    ",
+    "source":"Chargers    ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":29,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals    ",
+    "source":"Bengals    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":10,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans    ",
+    "source":"Titans    ",
     "TeamID 1":"",
     "Score1":6,
     "Score2":20,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets   ",
+    "source":"Jets   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":34,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks    ",
+    "source":"Seahawks    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":12,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers   ",
+    "source":"Packers   ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":29,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts    ",
+    "source":"Colts    ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":29,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins    ",
+    "source":"Dolphins    ",
     "TeamID 1":"",
     "Score1":7,
     "Score2":36,
-    "TeamName2":"Patriots",
+    "target":"Patriots",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions    ",
+    "source":"Lions    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":45,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers    ",
+    "source":"Buccaneers    ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":20,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals    ",
+    "source":"Cardinals    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":20,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers    ",
+    "source":"49ers    ",
     "TeamID 1":"",
     "Score1":6,
     "Score2":27,
-    "TeamName2":"Rams",
+    "target":"Rams",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants    ",
+    "source":"Giants    ",
     "TeamID 1":"",
     "Score1":49,
     "Score2":52,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings    ",
+    "source":"Vikings    ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":20,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers    ",
+    "source":"Chargers    ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":29,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals    ",
+    "source":"Bengals    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":10,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans    ",
+    "source":"Titans    ",
     "TeamID 1":"",
     "Score1":6,
     "Score2":20,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets    ",
+    "source":"Jets    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":34,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks    ",
+    "source":"Seahawks    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":12,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers    ",
+    "source":"Packers    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":29,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts    ",
+    "source":"Colts    ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":29,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Browns    ",
+    "source":"Browns    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":31,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers   ",
+    "source":"Packers   ",
     "TeamID 1":"",
     "Score1":29,
     "Score2":37,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins    ",
+    "source":"Redskins    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":27,
-    "TeamName2":"Patriots",
+    "target":"Patriots",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans    ",
+    "source":"Titans    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":28,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins    ",
+    "source":"Dolphins    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":33,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams    ",
+    "source":"Rams    ",
     "TeamID 1":"",
     "Score1":18,
     "Score2":21,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars    ",
+    "source":"Jaguars    ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":28,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Raiders    ",
+    "source":"Raiders    ",
     "TeamID 1":"",
     "Score1":35,
     "Score2":38,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants    ",
+    "source":"Giants    ",
     "TeamID 1":"",
     "Score1":32,
     "Score2":18,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons    ",
+    "source":"Falcons    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":17,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos    ",
+    "source":"Broncos    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":27,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Eagles    ",
+    "source":"Eagles    ",
     "TeamID 1":"",
     "Score1":33,
     "Score2":27,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears    ",
+    "source":"Bears    ",
     "TeamID 1":"",
     "Score1":22,
     "Score2":19,
-    "TeamName2":"Chargers",
+    "target":"Chargers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills    ",
+    "source":"Bills    ",
     "TeamID 1":"",
     "Score1":22,
     "Score2":17,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions   ",
+    "source":"Lions   ",
     "TeamID 1":"",
     "Score1":18,
     "Score2":16,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cowboys    ",
+    "source":"Cowboys    ",
     "TeamID 1":"",
     "Score1":6,
     "Score2":10,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers    ",
+    "source":"Panthers    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":10,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears    ",
+    "source":"Bears    ",
     "TeamID 1":"",
     "Score1":37,
     "Score2":13,
-    "TeamName2":"Rams",
+    "target":"Rams",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints    ",
+    "source":"Saints    ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":47,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins   ",
+    "source":"Dolphins   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":19,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"Browns    ",
+    "source":"Browns    ",
     "TeamID 1":"",
     "Score1":9,
     "Score2":30,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars    ",
+    "source":"Jaguars    ",
     "TeamID 1":"",
     "Score1":22,
     "Score2":20,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings    ",
+    "source":"Vikings    ",
     "TeamID 1":"",
     "Score1":30,
     "Score2":14,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots    ",
+    "source":"Patriots    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":26,
-    "TeamName2":"Giants",
+    "target":"Giants",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs    ",
+    "source":"Chiefs    ",
     "TeamID 1":"",
     "Score1":29,
     "Score2":13,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals    ",
+    "source":"Cardinals    ",
     "TeamID 1":"",
     "Score1":39,
     "Score2":32,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Texans    ",
+    "source":"Texans    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":6,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans    ",
+    "source":"Titans    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":19,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Raiders    ",
+    "source":"Raiders    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":18,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts    ",
+    "source":"Colts    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":21,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams    ",
+    "source":"Rams    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":16,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers    ",
+    "source":"Buccaneers    ",
     "TeamID 1":"",
     "Score1":45,
     "Score2":17,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos    ",
+    "source":"Broncos    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":15,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets    ",
+    "source":"Jets    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":24,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins    ",
+    "source":"Redskins    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":44,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cowboys    ",
+    "source":"Cowboys    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":14,
-    "TeamName2":"Dolphins",
+    "target":"Dolphins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs    ",
+    "source":"Chiefs    ",
     "TeamID 1":"",
     "Score1":33,
     "Score2":3,
-    "TeamName2":"Chargers",
+    "target":"Chargers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers    ",
+    "source":"Packers    ",
     "TeamID 1":"",
     "Score1":30,
     "Score2":13,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers    ",
+    "source":"49ers    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":29,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals    ",
+    "source":"Bengals    ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":34,
-    "TeamName2":"Cardinals",
+    "target":"Cardinals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills   ",
+    "source":"Bills   ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":20,
-    "TeamName2":"Patriots",
+    "target":"Patriots",
     "TeamID2":""
   },
   {
-    "TeamName1":"Eagles    ",
+    "source":"Eagles    ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":45,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers    ",
+    "source":"Panthers    ",
     "TeamID 1":"",
     "Score1":33,
     "Score2":14,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears    ",
+    "source":"Bears    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":13,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints    ",
+    "source":"Saints    ",
     "TeamID 1":"",
     "Score1":6,
     "Score2":24,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams    ",
+    "source":"Rams    ",
     "TeamID 1":"",
     "Score1":7,
     "Score2":31,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings    ",
+    "source":"Vikings    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":10,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants    ",
+    "source":"Giants    ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":20,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers    ",
+    "source":"Buccaneers    ",
     "TeamID 1":"",
     "Score1":12,
     "Score2":25,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills    ",
+    "source":"Bills    ",
     "TeamID 1":"",
     "Score1":22,
     "Score2":30,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Raiders    ",
+    "source":"Raiders    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":21,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers    ",
+    "source":"Chargers    ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":25,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins    ",
+    "source":"Dolphins    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":38,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals    ",
+    "source":"Cardinals    ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":13,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Steelers    ",
+    "source":"Steelers    ",
     "TeamID 1":"",
     "Score1":30,
     "Score2":39,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots    ",
+    "source":"Patriots    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":30,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Ravens    ",
+    "source":"Ravens    ",
     "TeamID 1":"",
     "Score1":33,
     "Score2":27,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers    ",
+    "source":"Packers    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":23,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets    ",
+    "source":"Jets    ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":20,
-    "TeamName2":"Giants",
+    "target":"Giants",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals   ",
+    "source":"Cardinals   ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":3,
-    "TeamName2":"Rams",
+    "target":"Rams",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons    ",
+    "source":"Falcons    ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":23,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks    ",
+    "source":"Seahawks    ",
     "TeamID 1":"",
     "Score1":38,
     "Score2":7,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers    ",
+    "source":"49ers    ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":20,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars    ",
+    "source":"Jaguars    ",
     "TeamID 1":"",
     "Score1":39,
     "Score2":42,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Texans    ",
+    "source":"Texans    ",
     "TeamID 1":"",
     "Score1":21,
     "Score2":30,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Ravens    ",
+    "source":"Ravens    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":15,
-    "TeamName2":"Dolphins",
+    "target":"Dolphins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals    ",
+    "source":"Bengals    ",
     "TeamID 1":"",
     "Score1":37,
     "Score2":3,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs    ",
+    "source":"Chiefs    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":20,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos    ",
+    "source":"Broncos    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":3,
-    "TeamName2":"Chargers",
+    "target":"Chargers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Eagles    ",
+    "source":"Eagles    ",
     "TeamID 1":"",
     "Score1":35,
     "Score2":28,
-    "TeamName2":"Patriots",
+    "target":"Patriots",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers    ",
+    "source":"Panthers    ",
     "TeamID 1":"",
     "Score1":41,
     "Score2":38,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts    ",
+    "source":"Colts    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":45,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cowboys    ",
+    "source":"Cowboys    ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":16,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings    ",
+    "source":"Vikings    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":23,
-    "TeamName2":"Cardinals",
+    "target":"Cardinals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills    ",
+    "source":"Bills    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":23,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks    ",
+    "source":"Seahawks    ",
     "TeamID 1":"",
     "Score1":35,
     "Score2":6,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers    ",
+    "source":"49ers    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":24,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions    ",
+    "source":"Lions    ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":21,
-    "TeamName2":"Rams",
+    "target":"Rams",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans    ",
+    "source":"Titans    ",
     "TeamID 1":"",
     "Score1":8,
     "Score2":30,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Steelers    ",
+    "source":"Steelers    ",
     "TeamID 1":"",
     "Score1":33,
     "Score2":20,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts  ",
+    "source":"Colts  ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":51,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers    ",
+    "source":"Chargers    ",
     "TeamID 1":"",
     "Score1":3,
     "Score2":10,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins    ",
+    "source":"Redskins    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":21,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons    ",
+    "source":"Falcons    ",
     "TeamID 1":"",
     "Score1":0,
     "Score2":38,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints    ",
+    "source":"Saints    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":17,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Raiders    ",
+    "source":"Raiders    ",
     "TeamID 1":"",
     "Score1":15,
     "Score2":12,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cowboys    ",
+    "source":"Cowboys    ",
     "TeamID 1":"",
     "Score1":7,
     "Score2":28,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots    ",
+    "source":"Patriots    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":6,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants    ",
+    "source":"Giants    ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":24,
-    "TeamName2":"Dolphins",
+    "target":"Dolphins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers    ",
+    "source":"Buccaneers    ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":31,
-    "TeamName2":"Rams",
+    "target":"Rams",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets    ",
+    "source":"Jets    ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":16,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers    ",
+    "source":"Panthers    ",
     "TeamID 1":"",
     "Score1":38,
     "Score2":35,
-    "TeamName2":"Giants",
+    "target":"Giants",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans    ",
+    "source":"Titans    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":33,
-    "TeamName2":"Patriots",
+    "target":"Patriots",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bills    ",
+    "source":"Bills    ",
     "TeamID 1":"",
     "Score1":25,
     "Score2":35,
-    "TeamName2":"Redskins",
+    "target":"Redskins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chiefs    ",
+    "source":"Chiefs    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":14,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Texans    ",
+    "source":"Texans    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":10,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Falcons    ",
+    "source":"Falcons    ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":17,
-    "TeamName2":"Jaguars",
+    "target":"Jaguars",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears    ",
+    "source":"Bears    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":38,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers    ",
+    "source":"Packers    ",
     "TeamID 1":"",
     "Score1":30,
     "Score2":20,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Browns    ",
+    "source":"Browns    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":30,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals    ",
+    "source":"Bengals    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":14,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Dolphins    ",
+    "source":"Dolphins    ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":30,
-    "TeamName2":"Chargers",
+    "target":"Chargers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Broncos    ",
+    "source":"Broncos    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":34,
-    "TeamName2":"Steelers",
+    "target":"Steelers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cardinals    ",
+    "source":"Cardinals    ",
     "TeamID 1":"",
     "Score1":40,
     "Score2":17,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions   ",
+    "source":"Lions   ",
     "TeamID 1":"",
     "Score1":35,
     "Score2":27,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers   ",
+    "source":"Chargers   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":23,
-    "TeamName2":"Raiders",
+    "target":"Raiders",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins    ",
+    "source":"Redskins    ",
     "TeamID 1":"",
     "Score1":38,
     "Score2":24,
-    "TeamName2":"Eagles",
+    "target":"Eagles",
     "TeamID2":""
   },
   {
-    "TeamName1":"49ers    ",
+    "source":"49ers    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":32,
-    "TeamName2":"Lions",
+    "target":"Lions",
     "TeamID2":""
   },
   {
-    "TeamName1":"Steelers    ",
+    "source":"Steelers    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":20,
-    "TeamName2":"Ravens",
+    "target":"Ravens",
     "TeamID2":""
   },
   {
-    "TeamName1":"Cowboys    ",
+    "source":"Cowboys    ",
     "TeamID 1":"",
     "Score1":6,
     "Score2":16,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bears    ",
+    "source":"Bears    ",
     "TeamID 1":"",
     "Score1":26,
     "Score2":21,
-    "TeamName2":"Buccaneers",
+    "target":"Buccaneers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Panthers    ",
+    "source":"Panthers    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":20,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Colts    ",
+    "source":"Colts    ",
     "TeamID 1":"",
     "Score1":18,
     "Score2":12,
-    "TeamName2":"Dolphins",
+    "target":"Dolphins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots    ",
+    "source":"Patriots    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":26,
-    "TeamName2":"Jets",
+    "target":"Jets",
     "TeamID2":""
   },
   {
-    "TeamName1":"Texans    ",
+    "source":"Texans    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":6,
-    "TeamName2":"Titans",
+    "target":"Titans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Browns    ",
+    "source":"Browns    ",
     "TeamID 1":"",
     "Score1":13,
     "Score2":17,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars    ",
+    "source":"Jaguars    ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":38,
-    "TeamName2":"Saints",
+    "target":"Saints",
     "TeamID2":""
   },
   {
-    "TeamName1":"Packers    ",
+    "source":"Packers    ",
     "TeamID 1":"",
     "Score1":8,
     "Score2":38,
-    "TeamName2":"Cardinals",
+    "target":"Cardinals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams    ",
+    "source":"Rams    ",
     "TeamID 1":"",
     "Score1":23,
     "Score2":17,
-    "TeamName2":"Seahawks",
+    "target":"Seahawks",
     "TeamID2":""
   },
   {
-    "TeamName1":"Giants   ",
+    "source":"Giants   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":49,
-    "TeamName2":"Vikings",
+    "target":"Vikings",
     "TeamID2":""
   },
   {
-    "TeamName1":"Bengals   ",
+    "source":"Bengals   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":20,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jets    ",
+    "source":"Jets    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":22,
-    "TeamName2":"Bills",
+    "target":"Bills",
     "TeamID2":""
   },
   {
-    "TeamName1":"Patriots    ",
+    "source":"Patriots    ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":20,
-    "TeamName2":"Dolphins",
+    "target":"Dolphins",
     "TeamID2":""
   },
   {
-    "TeamName1":"Saints    ",
+    "source":"Saints    ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":17,
-    "TeamName2":"Falcons",
+    "target":"Falcons",
     "TeamID2":""
   },
   {
-    "TeamName1":"Lions    ",
+    "source":"Lions    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":20,
-    "TeamName2":"Bears",
+    "target":"Bears",
     "TeamID2":""
   },
   {
-    "TeamName1":"Eagles    ",
+    "source":"Eagles    ",
     "TeamID 1":"",
     "Score1":35,
     "Score2":30,
-    "TeamName2":"Giants",
+    "target":"Giants",
     "TeamID2":""
   },
   {
-    "TeamName1":"Redskins    ",
+    "source":"Redskins    ",
     "TeamID 1":"",
     "Score1":34,
     "Score2":23,
-    "TeamName2":"Cowboys",
+    "target":"Cowboys",
     "TeamID2":""
   },
   {
-    "TeamName1":"Titans    ",
+    "source":"Titans    ",
     "TeamID 1":"",
     "Score1":24,
     "Score2":30,
-    "TeamName2":"Colts",
+    "target":"Colts",
     "TeamID2":""
   },
   {
-    "TeamName1":"Ravens    ",
+    "source":"Ravens    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":24,
-    "TeamName2":"Bengals",
+    "target":"Bengals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Steelers   ",
+    "source":"Steelers   ",
     "TeamID 1":"",
     "Score1":28,
     "Score2":12,
-    "TeamName2":"Browns",
+    "target":"Browns",
     "TeamID2":""
   },
   {
-    "TeamName1":"Jaguars    ",
+    "source":"Jaguars    ",
     "TeamID 1":"",
     "Score1":6,
     "Score2":30,
-    "TeamName2":"Texans",
+    "target":"Texans",
     "TeamID2":""
   },
   {
-    "TeamName1":"Raiders    ",
+    "source":"Raiders    ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":23,
-    "TeamName2":"Chiefs",
+    "target":"Chiefs",
     "TeamID2":""
   },
   {
-    "TeamName1":"Chargers   ",
+    "source":"Chargers   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":27,
-    "TeamName2":"Broncos",
+    "target":"Broncos",
     "TeamID2":""
   },
   {
-    "TeamName1":"Buccaneers   ",
+    "source":"Buccaneers   ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":38,
-    "TeamName2":"Panthers",
+    "target":"Panthers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Seahawks    ",
+    "source":"Seahawks    ",
     "TeamID 1":"",
     "Score1":36,
     "Score2":6,
-    "TeamName2":"Cardinals",
+    "target":"Cardinals",
     "TeamID2":""
   },
   {
-    "TeamName1":"Rams    ",
+    "source":"Rams    ",
     "TeamID 1":"",
     "Score1":16,
     "Score2":19,
-    "TeamName2":"49ers",
+    "target":"49ers",
     "TeamID2":""
   },
   {
-    "TeamName1":"Vikings   ",
+    "source":"Vikings   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":13,
-    "TeamName2":"Packers",
+    "target":"Packers",
     "TeamID2":""
   }
 ]
