@@ -40,8 +40,8 @@ d3.json("nodes.json", function(error, graph) {
   var my_links = $.map(graph, function(d){return {"source": d.source, "target": d.target, "value":1, "origin": d};});
   
   my_links.forEach(function(d) {
-    if (typeof d.source == "number") { d.source = nodes[d.source]; }
-    if (typeof d.target == "number") { d.target = nodes[d.target]; }
+    if (typeof d.source == 1) { d.source = nodes[d.source]; }
+    if (typeof d.target == 1) { d.target = nodes[d.target]; }
 });
   force
       .nodes(graph.nodes)
