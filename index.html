@@ -38,9 +38,9 @@ var links = {};
 // Compute the distinct nodes from the links.
 links.forEach(function(link) {
     link.source = nodes[graph.links.source] || 
-        (nodes[graph.links.source] = {graph.links.source});
+        (nodes[graph.links] = {graph.links});
     link.target = nodes[graph.links.target] || 
-        (graph.links.target] = {graph.links.target});
+        (graph.links] = {graph.links});
     link.value = +link.value;
 });
 
