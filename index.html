@@ -48,10 +48,10 @@ d3.json("nodes.json", function(error, graph) {
       // .append("svg:title")
       // .text(function(d) { return (d.Score1 + " -> " + d.Score2); })
       .on("mouseover", function(d, i) {
-        d3.select("text").append("text")
-                .text(function(d) {return (d.Score1 + " -> " + d.Score2);})
-                .attr("x", function(d) {return x(d.x);})
-                .attr("y", function (d) {return y(d.y);});
+        // d3.select("text").append("text")
+        //         .text(function(d) {return (d.Score1 + " -> " + d.Score2);})
+        //         .attr("x", function(d) {return x(d.x);})
+        //         .attr("y", function (d) {return y(d.y);});
       //   var tooltip = d3.select(""#tooltip")
       //   .append("div")
       //   .style("position", "absolute")
@@ -78,6 +78,9 @@ d3.json("nodes.json", function(error, graph) {
 
   node.append("title")
       .text(function(d) { return d.name; });
+      
+      link.append("title")
+      .text(function(d) { return "hello"; });
 
 // link.on('mouseover', function(d) {
 //   link.append("title")
