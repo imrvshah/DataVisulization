@@ -41,8 +41,8 @@ d3.json("nodes.json", function(error, graph) {
   
  
   force
-      .nodes(my_nodes)
-      .links(my_links)
+      .nodes(graph.nodes)
+      .links(graph.links)
       .start();
 
   var link = svg.selectAll(".link")
