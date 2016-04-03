@@ -51,7 +51,7 @@ d3.json("nodes.json", function(error, graph) {
       var y = d3.mouse(this)[1];
       var tooltip = d3.select(".link")
         .append("text")
-        .text(d.source.name + " -> " + d.target.name)
+        .text(d.Score1 + " -> " + d.Score2)
         .attr("x", x)
         .attr("y", y)
         .attr("id", "tooltip")
