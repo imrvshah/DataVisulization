@@ -58,7 +58,8 @@ d3.json("nodes.json", function(error, graph) {
       .text(function(d) { return d.name; });
 
 link.on('mouseover', function(d) {
- .text(function(d) { return d.Score1; })
+  link.append("title")
+  link.text(function(d) { return d.Score1; });
 });
 
 // Set the stroke width back to normal when mouse leaves the node.
