@@ -32,7 +32,7 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("nodes.json", function(error, graph) {
+d3.json("nodes.json", function(error, my_data) {
   if (error) throw error;
   
   // I use jQuery.map() to reformat the data as I want
