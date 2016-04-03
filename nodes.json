@@ -1,5 +1,5 @@
 {
-  “nodes”:[
+  "nodes":[
   {
     "name":"Patriots    ",
     "Win":12,
@@ -193,7 +193,7 @@
     "group":8
   }
 ],
-“links”:[
+"links":[
   {
     "source":"Steelers  ",
     "TeamID 1":"",
