@@ -44,7 +44,22 @@ d3.json("nodes.json", function(error, graph) {
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
-      .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+      .style("stroke-width", function(d) { return Math.sqrt(d.value); })
+      .on("mouseover", function(d, i) {
+
+      var x = d3.mouse(this)[0];
+      var y = d3.mouse(this)[1];
+      var tooltip = d3.select(".link")
+        .append("text")
+        .text(d.source.name + " -> " + d.target.name)
+        .attr("x", x)
+        .attr("y", y)
+        //.attr("dy", -r * 2)
+        .attr("id", "tooltip");
+    })
+    .on("mouseout", function(d, i) {
+      d3.select("#tooltip").remove();
+    });
 
   var node = svg.selectAll(".node")
       .data(graph.nodes)
@@ -57,15 +72,15 @@ d3.json("nodes.json", function(error, graph) {
   node.append("title")
       .text(function(d) { return d.name; });
 
-link.on('mouseover', function(d) {
-  link.append("title")
-  link.text(function(d) { return d.Score1; });
-});
+// link.on('mouseover', function(d) {
+//   link.append("title")
+//   link.text(function(d) { return d.Score1; });
+// });
 
-// Set the stroke width back to normal when mouse leaves the node.
-nodes.on('mouseout', function() {
- .text(function(d) { return ""; });
-});
+// // Set the stroke width back to normal when mouse leaves the node.
+// nodes.on('mouseout', function() {
+// .text(function(d) { return ""; });
+// });
 
   force.on("tick", function() {
     link.attr("x1", function(d) { return d.source.x; })
