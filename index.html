@@ -55,6 +55,7 @@ d3.json("nodes.json", function(error, graph) {
         .attr("x", x)
         .attr("y", y)
         .attr("id", "tooltip")
+        style("visibility","visible")
         console.log(d.Score1 + " -> " + d.Score2);
         //.attr("dy", -r * 2)
         
