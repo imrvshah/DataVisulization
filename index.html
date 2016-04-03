@@ -34,6 +34,8 @@ var svg = d3.select("body").append("svg")
 
 d3.json("nodes.json", function(error, graph) {
   if (error) throw error;
+  
+  var nodes = {};
 graph.links.forEach(function(link) {
     link.source = nodes[link.source] || 
         (nodes[link.source] = {name: link.source});
@@ -42,7 +44,7 @@ graph.links.forEach(function(link) {
     link.value = +link.value;
 });
   force
-      .nodes(graph.nodes)
+      .nodes(d3.values(nodes))
       .links(graph.links)
       .start();
 
