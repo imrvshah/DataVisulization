@@ -33,16 +33,16 @@ var svg = d3.select("body").append("svg")
 
 d3.json("nodes.json", function(error, graph) {
   if (error) throw error;
-
+graph.links.forEach(function(d) {
+    if (typeof d.source == "1") { d.source = nodes[d.source]; }
+    if (typeof d.target == "1") { d.target = nodes[d.target]; }
+});
 
   force
       .nodes(graph.nodes)
       .links(graph.links)
       .start();
-links.forEach(function(d) {
-    if (typeof d.source == "1") { d.source = nodes[d.source]; }
-    if (typeof d.target == "1") { d.target = nodes[d.target]; }
-});
+
   var link = svg.selectAll(".link")
       .data(graph.links)
     .enter().append("line")
