@@ -277,7 +277,7 @@
 		"TeamID 1": "",
 		"Score1": 24,
 		"Score2": 26,
-		"target": "25",
+		"target": 25,
 		"value": 1,
 		"TeamID2": ""
 	}, {
@@ -2004,7 +2004,7 @@
 		"TeamID 1": "",
 		"Score1": 13,
 		"Score2": 20,
-		"target": "25",
+		"target": 25,
 		"value": 1,
 		"TeamID2": ""
 	}, {
@@ -2100,7 +2100,7 @@
 		"TeamID 1": "",
 		"Score1": 20,
 		"Score2": 17,
-		"target": "25",
+		"target": 25,
 		"value": 1,
 		"TeamID2": ""
 	}, {
