@@ -48,7 +48,7 @@ d3.json("nodes.json", function(error, graph) {
       // .append("svg:title")
       // .text(function(d) { return (d.Score1 + " -> " + d.Score2); })
       .on("mouseover", function(d, i) {
-        d3.select("text").enter().append("text")
+        d3.select("text").append("text")
                 .text(function(d) {return (d.Score1 + " -> " + d.Score2);})
                 .attr("x", function(d) {return x(d.x);})
                 .attr("y", function (d) {return y(d.y);});
