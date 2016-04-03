@@ -41,10 +41,10 @@ graph.links.forEach(function(link) {
         (nodes[link.source] = {name: link.source});
     link.target = nodes[link.target] || 
         (nodes[link.target] = {name: link.target});
-    link.value = 1;
+    link.value = 10;
 });
   force
-      .nodes(d3.values(graph.nodes))
+      .nodes(d3.values(nodes))
       .links(graph.links)
       .start();
 
