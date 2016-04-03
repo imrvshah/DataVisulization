@@ -37,7 +37,7 @@ d3.json("nodes.json", function(error, graph) {
   
   // I use jQuery.map() to reformat the data as I want
   var my_nodes = $.map(d3.range(1000), function(d){return {"name": d.name,"weight":1};});
-  var my_links = $.map(graph, function(d){return {"source": d.links.source, "target": d.target, "value":1, "origin": d};});
+  var my_links = $.map(graph, function(d){return {"source": d.source, "target": d.target, "value":1, "origin": d};});
   
  
   force
