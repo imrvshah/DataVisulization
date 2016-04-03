@@ -1,297 +1,297 @@
 {
-  "nodes":[
+  “nodes”:[
   {
-    "name":"Patriots",
+    "name":"Patriots    ",
     "Win":12,
     "Loss":4,
-    "group":0
+    "group”:0
   },
   {
     "name":"Jets",
     "Win":10,
     "Loss":6,
-    "group":0
+    "group”:0
   },
   {
     "name":"Bills",
     "Win":8,
     "Loss":8,
-    "group":0
+    "group”:0
   },
   {
     "name":"Dolphins",
     "Win":6,
     "Loss":10,
-    "group":0
+    "group”:0
   },
   {
     "name":"Bengals",
     "Win":12,
     "Loss":4,
-    "group":1
+    "group”:1
   },
   {
     "name":"Steelers",
     "Win":10,
     "Loss":6,
-    "group":1
+    "group”:1
   },
   {
     "name":"Ravens",
     "Win":5,
     "Loss":11,
-    "group":1
+    "group”:1
   },
   {
     "name":"Browns",
     "Win":3,
     "Loss":13,
-    "group":1
+    "group”:1
   },
   {
     "name":"Texans",
     "Win":9,
     "Loss":7,
-    "group":2
+    "group”:2
   },
   {
-    "name":"Colts",
+    "name”:”Colts",
     "Win":8,
     "Loss":8,
-    "group":2
+    "group”:2
   },
   {
     "name":"Jaguars",
     "Win":5,
     "Loss":11,
-    "group":2
+    "group”:2
   },
   {
     "name":"Titans",
     "Win":3,
     "Loss":13,
-    "group":2
+    "group”:2
   },
   {
     "name":"Broncos",
     "Win":12,
     "Loss":4,
-    "group":3
+    "group”:3
   },
   {
     "name":"Chiefs",
     "Win":11,
     "Loss":5,
-    "group":3
+    "group”:3
   },
   {
     "name":"Raiders",
     "Win":7,
     "Loss":9,
-    "group":3
+    "group”:3
   },
   {
     "name":"Chargers",
     "Win":4,
     "Loss":12,
-    "group":3
+    "group”:3
   },
   {
     "name":"Redskins",
     "Win":9,
     "Loss":7,
-    "group":4
+    "group”:4
   },
   {
     "name":"Eagles",
     "Win":7,
     "Loss":9,
-    "group":4
+    "group”:4
   },
   {
     "name":"Giants",
     "Win":6,
     "Loss":10,
-    "group":4
+    "group”:4
   },
   {
     "name":"Cowboys",
     "Win":4,
     "Loss":12,
-    "group":4
+    "group”:4
   },
   {
     "name":"Vikings",
     "Win":11,
     "Loss":5,
-    "group":5
+    "group”:5
   },
   {
     "name":"Packers",
     "Win":10,
     "Loss":6,
-    "group":5
+    "group”:5
   },
   {
     "name":"Lions",
     "Win":7,
     "Loss":9,
-    "group":5
+    "group”:5
   },
   {
     "name":"Bears",
     "Win":6,
     "Loss":10,
-    "group":5
+    "group”:5
   },
   {
     "name":"Panthers",
     "Win":15,
     "Loss":1,
-    "group":6
+    "group”:6
   },
   {
     "name":"Falcons",
     "Win":8,
     "Loss":8,
-    "group":6
+    "group”:6
   },
   {
     "name":"Saints",
     "Win":7,
     "Loss":9,
-    "group":6
+    "group”:6
   },
   {
     "name":"Buccaneers",
     "Win":6,
     "Loss":10,
-    "group":6
+    "group”:6
   },
   {
     "name":"Cardinals",
     "Win":13,
     "Loss":3,
-    "group":7
+    "group”:7
   },
   {
     "name":"Seahawks",
     "Win":10,
     "Loss":6,
-    "group":7
+    "group”:7
   },
   {
     "name":"Rams",
     "Win":7,
     "Loss":9,
-    "group":7
+    "group”:7
   },
   {
     "name":"49ers",
     "Win":5,
     "Loss":11,
-    "group":7
+    "group”:7
   }
 ],
-"links":[
+“links”:[
   {
-    "source":5,
+    "source":"5  ",
     "TeamID 1":"",
     "Score1":21,
     "Score2":28,
-    "target":0,
+    "target":"0",
     "TeamID2":""
   },
   {
-    "source":21,
+    "source":"21   ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":23,
-    "target":23,
+    "target":"23",
     "TeamID2":""
   },
   {
-    "source":13,
+    "source":"13   ",
     "TeamID 1":"",
     "Score1":27,
     "Score2":20,
-    "target":8,
+    "target":"8",
     "TeamID2":""
   },
   {
-    "source":7,
+    "source":"7   ",
     "TeamID 1":"",
     "Score1":10,
     "Score2":31,
-    "target":1,
+    "target":"1",
     "TeamID2":""
   },
   {
-    "source":9,
+    "source":"9 ",
     "TeamID 1":"",
     "Score1":14,
     "Score2":27,
-    "target":2,
+    "target":"2",
     "TeamID2":""
   },
   {
-    "source":3,
+    "source":"3   ",
     "TeamID 1":"",
     "Score1":17,
     "Score2":10,
-    "target":16,
+    "target":"16",
     "TeamID2":""
   },
   {
-    "source":24,
+    "source":"24   ",
     "TeamID 1":"",
     "Score1":20,
     "Score2":9,
-    "target":10,
+    "target":"10",
     "TeamID2":""
   },
   {
-    "source":29,
+    "source":"29   ",
     "TeamID 1":"",
     "Score1":31,
     "Score2":34,
-    "target":30,
+    "target":"30",
     "TeamID2":""
   },
   {
-    "source":26,
+    "source":"26 ",
     "TeamID 1":"",
     "Score1":19,
     "Score2":31,
-    "target":28,
+    "target":"28",
     "TeamID2":""
   },
   {
-    "source":22,
+    "source":"22",
     "TeamID 1":"",
     "Score1":28,
     "Score2":33,
-    "target":15,
+    "target":"15",
     "TeamID2":""
   },
   {
-    "source":11,
+    "source":"11",
     "TeamID 1":"",
     "Score1":42,
     "Score2":14,
-    "target":27,
+    "target":"27",
     "TeamID2":""
   },
   {
-    "source":4,
+    "source":"4",
     "TeamID 1":"",
     "Score1":33,
     "Score2":13,
-    "target":14,
+    "target":"14",
     "TeamID2":""
   },
   {
-    "source":6,
+    "source":"6",
     "TeamID 1":"",
     "Score1":13,
     "Score2":19,
