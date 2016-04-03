@@ -44,7 +44,7 @@ graph.links.forEach(function(link) {
     link.value = 1;
 });
   force
-      .nodes(nodes)
+      .nodes(d3.values(graph.nodes))
       .links(graph.links)
       .start();
 
