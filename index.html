@@ -47,10 +47,15 @@ d3.json("nodes.json", function(error, graph) {
     links.push({source: s, target: i}, {source: i, target: t});
     bilinks.push([s, i, t]);
   });
-links.forEach(function(d) {
-    if (typeof d.source == 1) { d.source = nodes[d.source]; }
-    if (typeof d.target == 1) { d.target = nodes[d.target]; }
-});
+graph.links.forEach(function(link, index, list) {
+        if (typeof graph.nodes[link.source] === 'undefined') {
+            console.log('undefined source', link);
+        }
+        if (typeof graph.nodes[link.target] === 'undefined') {
+            console.log('undefined target', link);
+        }
+    });
+
   force
       .nodes(nodes)
       .links(links)
