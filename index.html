@@ -34,7 +34,13 @@ var svg = d3.select("body").append("svg")
 
 d3.json("nodes.json", function(error, graph) {
   if (error) throw error;
-
+graph.links.forEach(function(link) {
+    link.source = nodes[link.source] || 
+        (nodes[link.source] = {name: link.source});
+    link.target = nodes[link.target] || 
+        (nodes[link.target] = {name: link.target});
+    link.value = +link.value;
+});
   force
       .nodes(graph.nodes)
       .links(graph.links)
