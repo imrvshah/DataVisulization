@@ -54,9 +54,10 @@ d3.json("nodes.json", function(error, graph) {
         .text(d.source.name + " -> " + d.target.name)
         .attr("x", x)
         .attr("y", y)
-        console.log('in over')
+        .attr("id", "tooltip")
+        console.log('in over');
         //.attr("dy", -r * 2)
-        .attr("id", "tooltip");
+        
     })
     .on("mouseout", function(d, i) {
       d3.select("#tooltip").remove();
