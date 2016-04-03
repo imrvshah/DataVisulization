@@ -54,6 +54,7 @@ d3.json("nodes.json", function(error, graph) {
         .text(d.source.name + " -> " + d.target.name)
         .attr("x", x)
         .attr("y", y)
+        consol.log('in over')
         //.attr("dy", -r * 2)
         .attr("id", "tooltip");
     })
