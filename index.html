@@ -34,8 +34,8 @@ var svg = d3.select("body").append("svg")
 d3.json("nodes.json", function(error, graph) {
   if (error) throw error;
 
-var my_nodes = my_data.map(function(d){return {"name": d.graph.nodes.Nodes};});
-var my_links = my_data.map(function(d){return {"source": d.graph.links.TeamName1, "target": d.graph.links.TeamName2, "value":1, "origin": d};});
+var my_nodes = d3.range(260).map(function(d){return {"name": d.graph.nodes.Nodes};});
+var my_links = d3.range(260).map(function(d){return {"source": d.graph.links.TeamName1, "target": d.graph.links.TeamName2, "value":1, "origin": d};});
   force
       .nodes(graph.nodes)
       .links(graph.links)
