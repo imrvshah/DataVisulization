@@ -38,6 +38,11 @@ d3.json("nodes.json", function(error, graph) {
   // I use jQuery.map() to reformat the data as I want
   var my_nodes = $.map(d3.range(1000), function(d){return {"name": d};});
   var my_links = $.map(graph, function(d){return {"source": d.source, "target": d.target, "value":1, "origin": d};});
+  
+  my_links.forEach(function(d) {
+    if (typeof d.source == "number") { d.source = nodes[d.source]; }
+    if (typeof d.target == "number") { d.target = nodes[d.target]; }
+});
   force
       .nodes(graph.nodes)
       .links(my_links)
