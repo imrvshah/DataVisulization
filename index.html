@@ -80,7 +80,7 @@ d3.json("nodes.json", function(error, graph) {
       .text(function(d) { return d.name; });
       
       link.append("title")
-      .text(function(d) { return "hello"; });
+      .text(function(d) { return (d.source.name+":"+d.Score1 + " -> " +d.target.name+":"+ d.Score2); });
 
 // link.on('mouseover', function(d) {
 //   link.append("title")
