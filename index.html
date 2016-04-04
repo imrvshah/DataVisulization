@@ -90,6 +90,13 @@ link.style("stroke", function(o) {
       
       link.append("title")
       .text(function(d) { return (d.source.name+":"+d.Score1 + " -> " +d.target.name+":"+ d.Score2); });
+      
+      var texts = svg.selectAll("text.label")
+                .data(graph.nodes)
+                .enter().append("text")
+                .attr("class", "label")
+                .attr("fill", "black")
+                .text(function(d) {  return d.name;  });
     
 
 // link.on('mouseover', function(d) {
@@ -110,6 +117,10 @@ link.style("stroke", function(o) {
 
     node.attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
+        
+    texts.attr("transform", function(d) {
+        return "translate(" + d.x + "," + d.y + ")";
+    });
   });
 });
 
