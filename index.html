@@ -68,6 +68,9 @@ d3.json("nodes.json", function(error, graph) {
       d3.select("#tooltip").remove();
     });
 
+link.style("stroke", function(o) {
+    return o.Score1>o.Score2 ? "#00FF00" : "#FF0000" ;
+  });
   var node = svg.selectAll(".node")
       .data(graph.nodes)
     .enter().append("circle")
