@@ -35,6 +35,14 @@ var svg = d3.select("body").append("svg")
 // d3.json("nodes.json", function(error, graph) {
 d3.json("nodes_unbalanced_Weight.json", function(error, graph) {
   if (error) throw error;
+graph.links.forEach(function(link, index, list) {
+        if (typeof graph.nodes[link.source] === 'undefined') {
+            console.log('undefined source', link);
+        }
+        if (typeof graph.nodes[link.target] === 'undefined') {
+            console.log('undefined target', link);
+        }
+    });
 
   force
       .nodes(graph.nodes)
