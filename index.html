@@ -32,8 +32,8 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-// d3.json("nodes.json", function(error, graph) {
-d3.json("nodes_unbalanced_Weight.json", function(error, graph) {
+d3.json("nodes.json", function(error, graph) {
+//d3.json("nodes_unbalanced_Weight.json", function(error, graph) {
   if (error) throw error;
 graph.links.forEach(function(link, index, list) {
         if (typeof graph.nodes[link.source] === 'undefined') {
