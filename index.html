@@ -86,7 +86,7 @@ link.style("stroke", function(o) {
       console.log(labels);
       
     node.append("title")
-      .text(function(d) { return d.name; });
+      .text(function(d) { return ("Win"+":"+d.Win+ " -> " +"Loss"+":"+d.Loss); });
       
       link.append("title")
       .text(function(d) { return (d.source.name+":"+d.Score1 + " -> " +d.target.name+":"+ d.Score2); });
